@@ -1,2 +1,4 @@
-# hvml-specs
-The specifications of HVML
+# HVML Specifications
+
+The specifications of HVML.
+
